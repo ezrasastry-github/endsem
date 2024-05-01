@@ -1,2 +1,2 @@
-Hellt this is sem 
-Add a new line in git 
+Hello this is sem 
+Add a new line in git hub
